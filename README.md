@@ -14,7 +14,8 @@ Demo: Admin kumarashishsingh920@gmail.com / admin123, Student student1@example.c
 🎓 Student side
 
 See today's breakfast, lunch & dinner menu with the current date.
-Mark "I will eat / won't eat" and Veg / Non-Veg, editable until the deadline, with a confirmation message.
+Mark "I will eat / won't eat" and Veg / Non-Veg, editable until the deadline, with a confirmation message.<img width="1872" height="877" alt="Screenshot 2026-08-02 222624" src="https://github.com/user-attachments/assets/d3cad632-3541-4189-84f9-4addf0521b3a" />
+
 QR mess check-in — a personal QR code to confirm attendance at the counter.
 Editable profile (name, roll number, hostel block) and in-app notifications.
 
@@ -28,6 +29,9 @@ Reports: daily/weekly/monthly stats + food wastage estimation, exportable as PDF
 Email reminders to students who haven't submitted (via Resend).
 
 🎨 Experience
+
+<img width="1568" height="882" alt="image-1789703763552" src="https://github.com/user-attachments/assets/67f77d12-e9d2-45d3-a3ed-07f55aaa51e5" />
+
 
 Sidebar-navigation dashboard, cards, charts, tables, smooth animations, fully mobile-responsive, light/dark theme.
 Under the hood
